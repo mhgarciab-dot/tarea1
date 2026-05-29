@@ -1,0 +1,44 @@
+/* Estilos para el cuerpo (body) */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+/* Estilos para el encabezado (header) */
+header {
+    background-color: #e0f7fa;
+}
+
+/* Estilos para la navegación (nav) */
+nav {
+    background-color: #00838f;
+}
+
+/* Estilos para el contenido principal (main) */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* Estilos para el pie de página (footer) */
+footer {
+    background-color: #b2ebf2;
+}
+
+/* Estilos para los elementos de lista (li) en la navegación */
+li {
+    display: inline-block;
+    width: 30%;
+}
+
+/* Estilos para el título principal (h1) */
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: #006064;
+}
+
+/* Estilos para los párrafos (p) */
+p {
+    line-height: 1.6;
+}
